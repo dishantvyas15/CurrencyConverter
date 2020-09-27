@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_heading">Converter</string>
+    <string name="action_convert">Convert</string>
+    <string name="ImageDesc">Image</string>
+    <string name="EnterINR">Enter amount in INR</string>
+    <string name="EnterUSD">Enter amount in USD</string>
+</resources>
